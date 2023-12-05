@@ -3,6 +3,10 @@
 *.log
 *.sql
 *.sqlite
+
+# Virtual Environments #
+######################
+.venv/
  
 # OS generated files #
 ######################
